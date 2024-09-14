@@ -1,16 +1,16 @@
 ##مطور السورس
-caes = ["C_HRr"]
-casery = "C_HRr"
+caes = ["BDB0B"]
+casery = "BDB0B"
 ##ايدي مطور السورس
-caserid = 6264438859
+caserid = 7291869416
 ##قناه السورس
-source = "https://t.me/COURSE_CAESAR" 
+source = "https://t.me/O_PG" 
 ch = "COURSE_CAESAR" 
 ##جروب السورس
 group = "https://t.me/sorescaser" 
 ##لوجو السورس
 photosource = "https://telegra.ph/file/79d346793ec3e73d5e9f0.jpg"
 ##توكن الصانع
-bot_token="6347821054:AAG-lCesi8s4MOO_ndhojFlvm2SgXQArJh4"
-##جلسه الاشتراك
-bot_token2="BAB86r0AtKKFlgMcYI2EbO8YAks7lIr4-WzsbGScSqnEOL5awdXYOf5XDF2CY86EmoelKIuz6Y2idQc9qIY-iITk__5QK3QpBrvWji4pHfjsJVSOWOPnwtn6v3DMTtU2uhf4vAS_8XGZ92OmqcUqNNm_tRHhI5HP8yAtsw01oNByIWZKFazdT_0P5zBoZnjJGOx8mnc5h8wRSYop-q8G-0cy8Nb9WlpKdT68xtKYtIcPIEDbAkE8VOR6z2brbiKy4SAV-KZY_RYMRZbKhwbjOv6u2En0ySV3dpiHWeFo0Y9XKoi-aZQiuq6lT6WWOQ5uZmWP-BbJe3O3ufItt9P1dmYO8YC2SwAAAAGDi9bPAA"
+bot_token="7355171571:AAHUXkM_IUL2lfqsm8bn4U_CbcC474dQIn8"
+#جلسه الاشتراك
+bot_token2="BAGi8fAAEN0BPrCp7p-_8vvMDJ2nhaMWfxC1lW2Rkeq4E3FMMsSj7iTgqt6aH2uYm4QTWnoVvKhw76UggNk7DDdPgq-XNY9idPEXwbHEXpqr_O_SvuKuTtgcNwxqjL5Rym49Dd862xB-fbJv7Z8ACz24BZnl9KlZiuXZofiZxOW_YD_uVb_o6gj2wToWLzuyUAyqo4uzezJGpK6EJP2rTAUskyTcQNUO4FdXowopT8nzao6aDebwdoSHIN-tONCE5q4AgVXo1nHps_gpd0LRM0JHt3nivYvhZDzXyc43dVtoCMFryV05oNmXHtRW5LTQjQfFiHSCOabirc8pdvWYcaRzQn7utwAAAAEvAALVAA"
