@@ -76,8 +76,8 @@ r = redis.Redis(
     host="127.0.0.1",
     port=6379,)
 
-API_ID = int("8186557")
-API_HASH = "efd77b34c69c164ce158037ff5a0d117"
+API_ID = int("9671629")
+API_HASH = "be5c84e9dc1ca0e2b53d54b71e575124"
 Bots = []
 Musi = []
 CASER = [] 
