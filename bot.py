@@ -2,8 +2,8 @@ from pyrogram import Client, idle
 from pyromod import listen
 from casery import caes, casery, group, source, photosource, caserid, ch, bot_token, bot_token2
 
-bot = Client("CAR", api_id=8186557, api_hash="efd77b34c69c164ce158037ff5a0d117", bot_token=bot_token, plugins=dict(root="CASER"))
-lolo = Client("hossam", api_id=8186557, api_hash="efd77b34c69c164ce158037ff5a0d117", session_string=bot_token2)    
+bot = Client("CAR", api_id=9671629, api_hash="be5c84e9dc1ca0e2b53d54b71e575124", bot_token=bot_token, plugins=dict(root="CASER"))
+lolo = Client("hossam", api_id=9671629, api_hash="be5c84e9dc1ca0e2b53d54b71e575124", session_string=bot_token2)    
 
 DEVS = caes
 DEVSs = []
